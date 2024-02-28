@@ -1,6 +1,4 @@
-body {
-  background-image: url("image/black.jpg");
-}
+
 
 
 th, td {
@@ -15,4 +13,7 @@ tr:nth-child(odd){background-color: #000000}
 th {
   background-color: #483D8B;
   color: white;
+}
+body {
+  background-image: url("../images/black.jpg");
 }
