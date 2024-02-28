@@ -1,11 +1,13 @@
 th, td {
   text-align: left;
   padding: 8px;
+  color: white;
 }
 
-tr:nth-child(even){background-color: #f2f2f2}
+tr:nth-child(even){background-color: #000000}
+tr:nth-child(odd){background-color: #000000}
 
 th {
-  background-color: #04AA6D;
-  color: blue;
+  background-color: #483D8B;
+  color: white;
 }
