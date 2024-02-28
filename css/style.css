@@ -7,7 +7,7 @@ th, td {
   color: white;
 }
 
-tr:nth-child(even){background-image: url(image/HuGGeENt6kGyixe3hT9tnY-1200-80.jpg)}
+tr:nth-child(even){background-color: #000000}
 tr:nth-child(odd){background-color: #000000}
 
 th {
